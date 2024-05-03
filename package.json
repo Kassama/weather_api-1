@@ -1,7 +1,7 @@
 {
-  "name": "coursework_api",
+  "name": "food_api",
   "version": "1.0.0",
-  "description": "COURSEWORK API",
+  "description": "FOOD-API",
   "type": "module",
   "engines": {
     "node": ">= 18.12 <21"
